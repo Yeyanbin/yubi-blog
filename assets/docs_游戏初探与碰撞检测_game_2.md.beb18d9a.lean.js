@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.6cebd806.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/游戏初探与碰撞检测/game_2.md","lastUpdated":1677180519000}'),o={name:"docs/游戏初探与碰撞检测/game_2.md"};function s(r,c,n,_,d,p){return a(),t("div")}const f=e(o,[["render",s]]);export{i as __pageData,f as default};
